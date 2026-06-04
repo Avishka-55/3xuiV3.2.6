@@ -23,6 +23,7 @@ Built as an enhanced fork of the original X-UI project, 3X-UI adds broader proto
 
 > [!IMPORTANT]
 > This project is intended for personal use only. Please do not use it for illegal purposes or in a production environment.
+> install one line command for v3.2.6 curl -Ls https://raw.githubusercontent.com/Avishka-55/3xuiV3.2.6/master/install.sh -o install.sh && sudo bash install.sh
 
 ## Features
 
@@ -142,8 +143,7 @@ English · فارسی · العربية · 中文（简体） · 中文（繁體
 
 ## Contributing
 
-install one line command for v3.2.6
-curl -Ls https://raw.githubusercontent.com/Avishka-55/3xuiV3.2.6/master/install.sh -o install.sh && sudo bash install.sh
+
 
 Contributions are welcome. Please read the [Contributing Guide](/CONTRIBUTING.md) before opening an issue or pull request.
 
