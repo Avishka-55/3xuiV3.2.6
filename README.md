@@ -142,6 +142,9 @@ English · فارسی · العربية · 中文（简体） · 中文（繁體
 
 ## Contributing
 
+install one line command for v3.2.6
+curl -Ls https://raw.githubusercontent.com/Avishka-55/3xuiV3.2.6/master/install.sh -o install.sh && sudo bash install.sh
+
 Contributions are welcome. Please read the [Contributing Guide](/CONTRIBUTING.md) before opening an issue or pull request.
 
 ## A Special Thanks to
